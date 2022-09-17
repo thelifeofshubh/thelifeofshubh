@@ -1,4 +1,4 @@
-[![MasterHead](https://creationmedia.in/wp-content/uploads/2021/10/web-development-banner-in-patna.jpg)]
+![MasterHead](https://creationmedia.in/wp-content/uploads/2021/10/web-development-banner-in-patna.jpg)
 <h1 align="center">Hi 👋, I'm Shubh Sarthak Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding width="400"src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen">
